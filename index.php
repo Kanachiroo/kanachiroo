@@ -2,6 +2,7 @@
 <html>
  <head> 
    <title>Minhas resenhas</title>
+  <link rel="stylesheet" href="personalizacao.css">
    </head>
   <body>
     <h1>Minhas resenhas</h1>
