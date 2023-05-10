@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head> 
-   <litle>Minhas resenhas</little>
+   <title>Minhas resenhas</title>
    </head>
   <body>
     <h1>Minhas resenhas</h1>
