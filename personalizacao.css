@@ -1,5 +1,8 @@
   body {
-    background-image: url("")
+    background-image: url("imagens/carros.jpg");
+    backgroud-repeat: no-repeat, repeat;
+    bakground-size: cover
+      
     font-family: Arial, sans-serif;
 }
 
